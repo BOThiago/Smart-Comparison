@@ -1,0 +1,37 @@
+  	Ola, Bom dia a todos !
+
+  	Eu Thiago Barreto de Oliveira, do Grupo de TCC Smart Comparison, junto com Guilherme Alves e Renan Pereira, venho por meio deste video, apresentar toda a parte funcional de nosso TCC.
+
+  	Nosso grupo, teve como ideia principal, o desenvolvimento de um website, onde nossos usuarios possam encontrar determinados produtos de seu interesse, podendo compara-los com produtos
+da concorrencia, mostrando seus beneficios e seus maleficios, de acordo com os dados ja antes revelados pelo fabricante.
+
+  	O nome Smart Comparison, vem de, Smart, como traducao literal Inteligente, e Comparison como comparacao, dando assim em nossa lingua nativa, a traducao Comparacao Inteligente.
+
+	O primeiro contato, com o usuario, vem a partir da nossa tela de cadastro, ja antes combinado, fazendo parte do nosso CRUD. Essa tela, requer informacoes do usuario, para
+liberar os demais acessos ao nosso website. Requerimos dados simples, pois nosso site visa a versatilidade, e a facilitacao do usuario com a plataforma. Dados como, nome, email e senha, 
+sao solicitados para o cadastro em nosso Banco de Dados. E sendo assim para login, É  necessario apenas o email e a senha.
+	Ainda na tela de cadastro, mostramos tambem, situacoes diversas, onde um cadastro  tenta ser efetuado com um email ja antes utilizado, portanto o site verifica em nosso 
+Banco de dados, e envia um alerta dizendo que este email ja esta em uso.
+	Na parte de login, quando o usuario preenche algo errado, o nosso site revela que o login na foi efetuado, dizendo que o login nao É autentico, sem revelar qual das informacoes 
+foram digitadas errada, evitando furos de seguranca em nosso banco de dados.
+	E Ainda na parte de seguranca, tambem colocamos metodos de criptografia e anti injections, para dificultar ainda mais invasoes hacker.
+
+	No botao perfil, encontrado apos o usuario ter logado em nosso website, criamos uma aba para completar o desenvolvimento CRUD, onde criamos uma tela de usuario, fazendo com que ele possa 
+selecionar uma foto, alterar o nome de usuario, ou mesmo alterar o email e a senha, e seus dados que foram consultados de nosso banco de dados, serao apresentados ao usuario, sugerindo 
+alteracoes e recomendacoes, para completar a parte de consulta e alteracao com o nosso banco de dados.
+
+	Na tela principal, motramos nossa logo e descendo tambem É mostrado um pouco sobre a nossa marca, mostrando o que somos e qual nosso objetivo, e logo abaixo e mostrado o botao
+de comparacao, que de longe e nossa principal funcionalidade.
+
+	Em comparacoes, temos a selecao de Processadores e Placas-de-Video, onde o usuario pode escolher o que deseja comparar, e o site mostrara todas as possibilidades de comparacao, 
+e de diferentes maneiras. O usuario podera ver as principais informacoes do produto, o que podera definir sua compra ao longo de sua pesquisa.
+
+	Ao fazer o login em nosso site, o usuario sera levado a nossa pagina principal, que mostrara um pouco sobre nos, e existirao algumas opcoes para o usuario navegar em nosso webiste.
+Os botoes sao eles, Smart Comparison, que trara o usuario sempre de volta para o menu, o botao de Processadores e Placas De Video, onde ele sera levado para a parte de comparacao, e o botao 
+perfil para modificar e visualizar tudo sobre o usuario, e por ultimo o botao sign out, para sair da conta e voltar para a tela de cadastro.
+
+	Com isso fomos capazes de mostrar todas as principais funcionalidades de nosso website, e com quisitos mais tecnicos irei falar sobre o desenvolvimento em si. Para conseguir rodar o
+website localmente, utilizei uma ferramenta chamada php storm, que roda em conjunto com o wampsever. E com isso fui capaz de realizar testes e desenvolver o website sem precisar hospeda-lo na
+internet. Em linguagens, foquei em php, para realizar todas as funcionalidades que sao relativas ao banco, como a parte de cadastro e login e a aba de perfil, em ultimo e nao menos importante,
+utlizei a framework bootstrap, para realizar a parte funcional e estetica de nosso website, focada em JavaScript e CSS. E com isso concluindo nossos objtivos, chegamos em um website satisfatorio
+e bem visto pelo usuario, alem de eficaz no que e prometido.

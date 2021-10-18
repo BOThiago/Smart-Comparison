@@ -1,0 +1,20 @@
+Materiais Utilizados
+
+Bom para desenvolver nosso website, nos utilizamos determinadas linguagens de desenvolvimento, como o HTML, CSS, JAVASCRIPT E O PHP para as funcionalidades.
+Na parte de banco de dados, nos utilizamos o wampsever em conjunto com o phpmyadmin rodando o MYsql para estruturar todo o ambiente de nosso banco de dados.
+E para rodar o nosso site, sem que seja preciso hospedalo, usamos o phpstorm, para conseguirmos realizar testes locais e desenvolver nossa ideia a partir disso.
+Para desenvolver toda a frontend, utilizamos uma framework usada pela plataforma Twitter, e de outras grandes empresas, que facilitou o desenvolvimento de estruturas e design de nosso website.
+Essa fremework chamada de bootstrap, nos influenciou a estruturar toda a parte relacionada a design, para trazer algo mais satisfatorio e bem visto pelo usuario.
+
+No processo de metodologia aplicada, foram utilizadas a formacao padrao, estabelecida pelo curso, onde desenvolvemos o prototipo no meio do ano, onde colocamos nossas ideias em imagens, e
+apos isso, tivemos que aplicala e desenvolver o projeto, apos isso demos a implementacao da ideia, desenvolvendo as funcionalidades e agora estamos em periodo de validacao.
+
+A primeira parte de conexao com o banco de dados vem a partir dessa tela, onde estabelecemos os dados do banco, para realizarmos consultas e modificacoes.
+A segunda tela vem em relacao a aba de formulario de cadastro, onde o servidor pega as informacoes digitadas pelo usuario e logo apos as injeta no banco de dados.
+A terceira faz a validacao do usuario, ou estabelece uma condicao, pois usuarios nao podem criar contas com emails existentes.
+A quarta tela e a validacao de login, onde o usuario estabelece seu login, e o banco de dados realiza a validacao.
+A proxima se refere a consulta no banco, para estabelecer se esse usuario e realmente autentico.
+
+
+https://youtu.be/oYqvYADDnkk
+
